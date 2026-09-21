@@ -1,15 +1,10 @@
 <p align="center"><sub>PROFILE — VOL. 01</sub></p>
 
-<h1 align="center">ANUJ SHARMA</h1>
+<h1 align="center">FULL-STACK ENGINEER</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=111111&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer;Python+%C2%B7+React+%C2%B7+Java+Spring+Boot;AI+Systems+%26+LLM+Integrations" alt="Typing animation" />
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anujbhsharma"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://anujbhsharma.github.io/personal-portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-</p>
 
 ---
 
@@ -44,7 +39,7 @@ Full-stack engineer working across Python, React, and Java — from security too
 
 ### 04 — ACTIVITY
 
-*Fig. 01 — Contribution topography.*
+*Fig. 01 — Contribution topography, monochrome, animated.*
 
 <div align="center">
   <picture>
@@ -53,14 +48,25 @@ Full-stack engineer working across Python, React, and Java — from security too
   </picture>
 </div>
 
-*Fig. 02 — Year in review.*
+*Fig. 02 — Language radar, animated 3D.*
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anujbhsharma&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=333333&icon_color=E30613" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujbhsharma&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=333333" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujbhsharma/anujbhsharma/output-3d-contrib/radar-night.svg" />
+    <img alt="3D language radar" src="https://raw.githubusercontent.com/anujbhsharma/anujbhsharma/output-3d-contrib/radar-day.svg" />
+  </picture>
 </div>
 
-*Fig. 03 — Contribution grid, animated.*
+*Fig. 03 — Language mix, animated 3D pie.*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujbhsharma/anujbhsharma/output-3d-contrib/pie-night.svg" />
+    <img alt="3D language pie" src="https://raw.githubusercontent.com/anujbhsharma/anujbhsharma/output-3d-contrib/pie-day.svg" />
+  </picture>
+</div>
+
+*Fig. 04 — Contribution grid, animated.*
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/anujbhsharma/anujbhsharma/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
@@ -76,8 +82,3 @@ Full-stack engineer working across Python, React, and Java — from security too
 - **[themis-core](https://github.com/anujbhsharma/themis-core)** — LegalTech AI platform · TypeScript / Next.js
 - **[themis-core-server](https://github.com/anujbhsharma/themis-core-server)** — Backend services · Python
 - **[personal-portfolio](https://github.com/anujbhsharma/personal-portfolio)** — Portfolio site · [live](https://anujbhsharma.github.io/personal-portfolio/)
-
-### 07 — CONTACT
-
-- [LinkedIn](https://www.linkedin.com/in/anujbhsharma)
-- [Portfolio](https://anujbhsharma.github.io/personal-portfolio/)
