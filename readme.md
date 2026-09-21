@@ -1,3 +1,5 @@
+<p align="center"><sub>PROFILE — VOL. 01</sub></p>
+
 <h1 align="center">ANUJ SHARMA</h1>
 
 <div align="center">
@@ -11,11 +13,13 @@
 
 ---
 
-### 01 — ABOUT
+### 01 — PROFILE
 
-Full Stack Engineer at **Beauceron Security**, building cybersecurity tooling with Python and React. Previously co-founded **Themis Core**, a LegalTech AI startup. MSc Computer Science, UNB (4.0 GPA).
+Full-stack engineer working across Python, React, and Java — from security tooling to AI systems and LLM integrations. Previously co-founded a legal-tech startup. Builds with AI agents and spec-driven development. Interested in systems that are fast, reliable, and actually useful.
 
-I work with AI agents, LLM integrations, and spec-driven development. I care about systems that are fast, reliable, and actually useful.
+| 5+ | 29 → 4 | 3 | 10 |
+|---|---|---|---|
+| years shipping | repos, curated not collected | featured builds | technologies in rotation |
 
 ### 02 — STACK
 
@@ -30,37 +34,50 @@ I work with AI agents, LLM integrations, and spec-driven development. I care abo
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 03 — ACTIVITY
+### 03 — PRINCIPLES
+
+> "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say."
+> — Edward Snowden
+
+> "The right to be let alone is the most comprehensive of rights, and the right most valued by civilized men."
+> — Louis Brandeis, dissenting in Olmstead v. United States (1928)
+
+### 04 — ACTIVITY
+
+*Fig. 01 — Contribution topography.*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujbhsharma/anujbhsharma/output-3d-contrib/night.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/anujbhsharma/anujbhsharma/output-3d-contrib/day.svg" />
+  </picture>
+</div>
+
+*Fig. 02 — Year in review.*
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anujbhsharma&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=333333&icon_color=E30613" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujbhsharma&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=333333" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anujbhsharma&hide_border=true&background=FFFFFF&stroke=E5E5E5&ring=E30613&fire=E30613&currStreakNum=111111&sideNums=111111&currStreakLabel=666666&sideLabels=666666&dates=999999" alt="Contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujbhsharma&bg_color=ffffff&color=333333&line=E30613&point=111111&area=true&hide_border=true" alt="Contribution activity graph" />
-</div>
+*Fig. 03 — Contribution grid, animated.*
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/anujbhsharma/anujbhsharma/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </div>
 
-### 04 — HIGHLIGHTS
+### 05 — SELECTED WORK
 
-- **Themis Core · Co-Founder & Software Engineer** (2023–2025) — LegalTech AI platform: +40% data retrieval speed, −30% page loads, +60% search precision via Elasticsearch.
-- **Lodestone, a Tech Mahindra company · Software Developer** (2021–2023) — Automation testing platform that cut testing time by 60%.
+- Co-founded and built a legal-tech AI platform — +40% retrieval speed, −30% page loads, +60% search precision.
+- Built an automation testing platform that cut testing time by 60%.
 
-### 05 — PROJECTS
+### 06 — PROJECTS
 
 - **[themis-core](https://github.com/anujbhsharma/themis-core)** — LegalTech AI platform · TypeScript / Next.js
 - **[themis-core-server](https://github.com/anujbhsharma/themis-core-server)** — Backend services · Python
 - **[personal-portfolio](https://github.com/anujbhsharma/personal-portfolio)** — Portfolio site · [live](https://anujbhsharma.github.io/personal-portfolio/)
 
-### 06 — CONTACT
+### 07 — CONTACT
 
 - [LinkedIn](https://www.linkedin.com/in/anujbhsharma)
 - [Portfolio](https://anujbhsharma.github.io/personal-portfolio/)
